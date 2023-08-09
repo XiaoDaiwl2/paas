@@ -1,5 +1,5 @@
 FROM ubuntu
-EXPOSE 443
+EXPOSE 8080
 WORKDIR /app
 USER root
 
